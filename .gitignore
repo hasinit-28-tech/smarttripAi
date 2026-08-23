@@ -24,8 +24,7 @@ lerna-debug.log*
 *.local
 
 # VS Code / IDE
-.vscode/*
-!.vscode/extensions.json
+.vscode/
 .idea/
 
 # OS files
