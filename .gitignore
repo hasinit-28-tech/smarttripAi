@@ -6,7 +6,7 @@ node_modules/
 .env.*
 !.env.example
 
-# Build files
+# Build output
 dist/
 dist-ssr/
 build/
@@ -23,11 +23,11 @@ lerna-debug.log*
 # Local files
 *.local
 
-# VS Code / IDE
+# IDE
 .vscode/
 .idea/
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 

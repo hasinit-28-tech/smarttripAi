@@ -20,6 +20,21 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+<<<<<<< HEAD
+=======
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+>>>>>>> 765a1bb (Update SmartTrip AI project and ignore secrets)
 # Local files
 *.local
 
@@ -29,4 +44,12 @@ lerna-debug.log*
 
 # OS
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+>>>>>>> 765a1bb (Update SmartTrip AI project and ignore secrets)
